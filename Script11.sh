@@ -16,5 +16,4 @@ then
 else
  echo "None of the condition met"
 fi
-
-echo "I have changed this branch"
+#echo "I have changed this branch"
