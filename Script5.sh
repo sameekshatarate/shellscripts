@@ -3,4 +3,4 @@
 NAME=Young-Minds
 readonly NAME
 NAME=DEVOPS
-echo "my name is: akash"
+
