@@ -1,0 +1,2 @@
+hi
+today i am doing practise of git
